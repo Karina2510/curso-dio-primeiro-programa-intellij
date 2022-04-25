@@ -7,7 +7,7 @@ public class PrimeiroPrograma {
     public static void main(String[] args) {
 
         Gato gato = new Gato();
-        Livro livro1 = new Livro(nome: "O problema dos copos", numPaginas 300);
+        Livro livro1 = new Livro(nome: "O problema dos copos", numPaginas: 300);
         System.out.println(gato);
 
 //        int a = 5;
